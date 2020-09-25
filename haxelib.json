@@ -14,11 +14,11 @@
 		"haxiomic"
 	],
 	"dependencies": {
-		"d-fischer-shared-utils": "2.3.2",
+		"d-fischer-shared-utils": "git:https://github.com/Sacramentix/hx-d-fischer-shared-utils.git",
 		"hxnodejs": "12.1.0",
-		"d-fischer-connection": "6.0.2",
-		"d-fischer-logger": "2.0.0",
-		"d-fischer-typed-event-emitter": "3.0.2"
+		"d-fischer-connection": "git:https://github.com/Sacramentix/hx-d-fischer-connection.git",
+		"d-fischer-logger": "git:https://github.com/Sacramentix/hx-d-fischer-logger.git",
+		"d-fischer-typed-event-emitter": "git:https://github.com/Sacramentix/hx-fischer-typed-event-emitter.git"
 	},
 	"version": "0.26.0"
 }
