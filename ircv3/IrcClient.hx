@@ -28,9 +28,9 @@ package ircv3;
 	private var _pingOnInactivity : Float;
 	private var _pingTimeout : Float;
 	@:optional
-	private var _pingCheckTimer : global.nodejs.Timer;
+	private var _pingCheckTimer : js.node.Timers;
 	@:optional
-	private var _pingTimeoutTimer : global.nodejs.Timer;
+	private var _pingTimeoutTimer : js.node.Timers;
 	private var _currentNick : String;
 	private final _logger : Dynamic;
 	private var _initialConnectionSetupDone : Dynamic;
