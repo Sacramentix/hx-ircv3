@@ -1,0 +1,4 @@
+-lib d-fischer-shared-utils:git:https://github.com/Sacramentix/hx-d-fischer-shared-utils.git
+-lib d-fischer-connection:git:https://github.com/Sacramentix/hx-d-fischer-connection.git
+-lib d-fischer-logger:git:https://github.com/Sacramentix/hx-d-fischer-logger.git
+-lib d-fischer-typed-event-emitter:git:https://github.com/Sacramentix/hx-fischer-typed-event-emitter.git
