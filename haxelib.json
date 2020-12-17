@@ -14,7 +14,14 @@
 		"haxiomic"
 	],
 	"dependencies": {
-		"hxnodejs": "12.1.0"
+		"d-fischer-shared-utils": "",
+		"hxnodejs": "12.1.0",
+		"d-fischer-connection": "",
+		"d-fischer-logger": "",
+		"d-fischer-typed-event-emitter": ""
+		"d-fischer-connection": "",
+		"d-fischer-logger": "",
+		"d-fischer-typed-event-emitter": ""
 	},
 	"version": "0.26.0"
 }
